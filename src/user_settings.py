@@ -5,7 +5,7 @@
 SOURCE_URLS = [
     "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality",
     "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
-    "https://t.me/s/v2rayfree",
+    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality",
     # Add more URLs here if you want to include additional sources.
 ]
 
