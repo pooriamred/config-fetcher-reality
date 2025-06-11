@@ -1,8 +1,8 @@
-//profile-title: base64:8J+RvUFub255bW91cy3wnZWP
+//profile-title: base64:QFJlZGZyZWU4L3JlYWxpdHk=
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/BXAMbot
-//profile-web-page-url: https://github.com/4n0nymou3
+//support-url: https://t.me/redfree8
+//profile-web-page-url: https://github.com/dedfree8
 
 vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443/?type=tcp&encryption=none&flow=&sni=analytics.google.com&fp=chrome&security=reality&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
