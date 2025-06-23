@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-23T03:30:29.296899+00:00",
+  "timestamp": "2025-06-23T04:38:25.019824+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality",
@@ -8,11 +8,11 @@
         "total_configs": 15872,
         "valid_configs": 58,
         "unique_configs": 58,
-        "avg_response_time": 0.21,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.77,
-        "last_success": "2025-06-23T03:24:55.089300+00:00",
+        "overall_score": 74.94,
+        "last_success": "2025-06-23T04:32:39.482836+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.02,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.75,
-        "last_success": "2025-06-23T03:24:57.108650+00:00",
+        "overall_score": 77.77,
+        "last_success": "2025-06-23T04:32:41.489572+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -51,14 +51,14 @@
       "url": "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality",
       "enabled": true,
       "metrics": {
-        "total_configs": 552792,
+        "total_configs": 567762,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.03,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.96,
-        "last_success": "2025-06-23T03:30:29.225368+00:00",
+        "overall_score": 74.89,
+        "last_success": "2025-06-23T04:38:24.947473+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
