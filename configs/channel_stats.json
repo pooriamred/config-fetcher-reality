@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-02T22:19:37.737185+00:00",
+  "timestamp": "2025-07-03T01:30:11.155827+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality",
@@ -8,11 +8,11 @@
         "total_configs": 15872,
         "valid_configs": 58,
         "unique_configs": 58,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.83,
-        "last_success": "2025-07-02T22:17:26.053582+00:00",
+        "overall_score": 74.96,
+        "last_success": "2025-07-03T01:27:59.321350+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.53,
-        "last_success": "2025-07-02T22:17:28.223244+00:00",
+        "overall_score": 77.67,
+        "last_success": "2025-07-03T01:28:01.397712+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,11 +54,11 @@
         "total_configs": 296480,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.01,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.98,
-        "last_success": "2025-07-02T22:19:37.699553+00:00",
+        "overall_score": 74.88,
+        "last_success": "2025-07-03T01:30:11.115214+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
