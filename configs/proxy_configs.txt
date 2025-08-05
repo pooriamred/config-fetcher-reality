@@ -60,5 +60,3 @@ vless://4aefa474-aa2c-46d4-aff1-82fa29dd5c25@57.129.92.12:1370/?type=tcp&encrypt
 
 vless://4aefa474-aa2c-46d4-aff1-82fa29dd5c25@57.129.92.168:1370/?type=tcp&encryption=none&flow=&sni=refersion.com&fp=chrome&security=reality&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#%40REDFREE8
-
