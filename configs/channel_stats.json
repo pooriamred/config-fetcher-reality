@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-12T04:32:31.507024+00:00",
+  "timestamp": "2025-08-12T06:34:57.760310+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 74.98,
-        "last_success": "2025-08-12T04:26:57.381611+00:00",
+        "last_success": "2025-08-12T06:29:23.619420+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
