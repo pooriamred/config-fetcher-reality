@@ -1,22 +1,22 @@
 {
-  "timestamp": "2025-09-27T10:21:39.422530+00:00",
+  "timestamp": "2025-09-27T12:37:40.493749+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality",
       "enabled": true,
       "metrics": {
-        "total_configs": 4092,
-        "valid_configs": 22,
-        "unique_configs": 22,
-        "avg_response_time": 0.06,
+        "total_configs": 4620,
+        "valid_configs": 25,
+        "unique_configs": 25,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.05,
-        "last_success": "2025-09-27T10:16:04.693265+00:00",
+        "overall_score": 75.07,
+        "last_success": "2025-09-27T12:32:06.378093+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 22,
+          "vless://": 25,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
