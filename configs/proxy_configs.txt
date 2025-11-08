@@ -4,19 +4,61 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/dedfree8
 
+vless://0226ef52-e556-4f36-ab0f-6c9f5414942a@152.53.147.69:22925/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ilovepdf.com&fp=chrome&security=reality&pbk=Pzsb-3zlxbYLJwRE0ACSqzTL7h3ubqREGMEs17q_1z4&sid=886d#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://0442e0ca-6c0e-4cc3-a195-91796b40dfd7@152.53.141.19:36200/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=smallpdf.com&fp=chrome&security=reality&pbk=STZOlHDnnn3pvzI7oxCS7fDjo8qAAqkU3_EVzKGm2wM&sid=ee02#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
 vless://0459fcb8-05f0-4cfc-97b9-82683e513902@193.46.81.151:50853/?type=tcp&encryption=none&flow=&sni=miro.com&fp=chrome&security=reality&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&sid=69#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://15b4c759-cd1f-4ded-9561-5825fa12550d@45.144.53.129:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nodafl2.phantombot.ru&fp=chrome&security=reality&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&sid=98c637e074b03225#%40REDFREE8%20%F0%9F%87%AB%F0%9F%87%AE
+vless://0581705f-e7ae-40df-9d27-f51fbbc7c42f@79.133.126.188:31603/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=merriam-webster.com&fp=chrome&security=reality&pbk=OLM6uNG4kXvdtjI8uak4GsPsO1p7g9pSsHSJSVZx_D0&sid=a1db#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
+
+vless://0eaab689-82c5-4678-8ac6-d58ef4357dbe@152.53.145.221:44393/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=lowes.com&fp=chrome&security=reality&pbk=QRguoAi4mjGas5PjOd-JCgcAlgZTmr8tqM8VC0ZvZSM&sid=05#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://140ae345-e7b8-49f5-8920-85f82085344e@37.120.191.120:40745/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&security=reality&pbk=KIJ-Gb61R1Ng1kMvD01v51SwtrrYh3npN5cSkxb-MH0&sid=3b#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://160a7b5d-fd67-4e83-8d8e-73dcfb6d91c2@109.107.159.189:11133/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cloudtalk.io&fp=chrome&security=reality&pbk=y3umRzGnap4t5V4C_rlt870Rku-TG4F8ttsq-_5gKTY&sid=d3e9#%40REDFREE8%20%F0%9F%87%AC%F0%9F%87%A7
+
+vless://2360d5e9-5503-4e6d-9e4a-fe5fb25c38fa@152.53.144.46:26143/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=steampowered.com&fp=chrome&security=reality&pbk=ng3D2eUM-UM3ariA2eCDibCNo_peaKijOWUZJJKiIUI&sid=0d#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://28a6787d-b076-4c7a-be0c-772f5990a25d@94.237.30.138:36534/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=asos.com&fp=chrome&security=reality&pbk=Vq0bh06jdIg-3eyAjHfA8_RZKT9C-a9IbqRqzayWl28&sid=41f255#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://28e8d9d8-3442-46e8-8697-0280c2917242@85.9.200.177:46490/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stackoverflow.com&fp=chrome&security=reality&pbk=mNnK0d5tF-8FazWFmDLsp9YPAf1PL2k9S1bvKV8p_Uk&sid=fa41#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://2c649958-a029-431a-920b-94e87ccbc715@152.53.142.51:54226/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yelp.com&fp=chrome&security=reality&pbk=Mhw0szMuy7R0U89Vm0bf-hF0DQ5pEWYdgdPF6UWLRXY&sid=49eb#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@5.75.197.245:2052/?type=grpc&encryption=none&flow=&sni=web.eitaa.com&fp=chrome&security=reality&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&sid=0ee11e#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@91.98.239.207:2052/?type=grpc&encryption=none&flow=&sni=web.eitaa.com&fp=chrome&security=reality&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&sid=3188433840#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
+vless://31d35cbe-92d1-44cd-9991-e58d00499fb2@152.53.141.75:10922/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ilovepdf.com&fp=chrome&security=reality&pbk=BWGB4WcFMvsxbu7rfyGTqVSWVlxNUz0HbmotfvlXuxg&sid=d2900d#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://344d875b-c192-447d-9ca6-8a655d4db8b8@91.98.224.242:8443/?type=tcp&encryption=none&flow=&sni=refersion.com&fp=firefox&security=reality&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU&sid=229b2a94#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
+
+vless://38ced162-2eb3-4aee-998f-747961f02c01@109.61.17.57:23747/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=lowes.com&fp=chrome&security=reality&pbk=u7gBBaokHefxp8JS3G_Nu1X5y6Rh5SsRBrVC1L-4ySY&sid=b7#%40REDFREE8%20%F0%9F%87%AB%F0%9F%87%AE
+
+vless://3c4486a2-68af-4fa9-80f9-7f2e0387871d@94.237.29.84:37843/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ilovepdf.com&fp=chrome&security=reality&pbk=_i2_awg5k15giouaYv4HqMGsbUC7OuY5YAU2CZVBpE8&sid=5e#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://3e7140c5-cbc5-4aff-b232-60efa91ebe1b@152.53.146.76:36659/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=smallpdf.com&fp=chrome&security=reality&pbk=O9IS_8x48rpsn5YovE6lIaJzp_PtzKcyIyeCxPWdwnE&sid=6e#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://40c4812d-b1fe-4ff1-922b-a10e95ee1d70@45.10.59.218:15833/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=canva.com&fp=chrome&security=reality&pbk=8z6qPN2t7wZ0nmOGhSTYaq__XqP8gDZar85XauwP4i0&sid=d0#%40REDFREE8%20%F0%9F%87%AB%F0%9F%87%B7
+
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339/?type=tcp&encryption=none&flow=&sni=dl.google.com&fp=chrome&security=reality&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#%40REDFREE8%20%F0%9F%87%B0%F0%9F%87%BF
+
+vless://49d74535-837e-4132-90c7-4e06de7db303@89.58.55.196:49406/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ilovepdf.com&fp=chrome&security=reality&pbk=UsAOmf7X1yYkjF73ChFECcZb2PFNuhqqvOUxcybV-20&sid=a7#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://5926e98a-f6af-4676-8c73-3f3d0146357d@5.22.215.220:13955/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stackoverflow.com&fp=random&security=reality&pbk=01fWMRp1FAcZQ7NzoLwmfdY9bCYGUGGiUyB-mfiB_Rc&sid=b5482c#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
 vless://6670529b-265a-4ee9-b944-bdaee2638ef2@62.60.177.167:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=uI6NV8Mkk7kf864izhLcAnk6nVDH6cE-_5HRJwMQGXs&sid=0ea9a621ae03e231#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
 
-vless://b5471668-94dc-4ea5-ae97-3bb9dabcd2a9@216.133.149.139:23581/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=EOYTqph-go2SazIPcSDl5pJGNyOnrR0mWaL8Tc_paEM&sid=#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
+vless://6cd8c95a-b58a-45e5-9af0-7d454f961dc9@152.53.142.188:10726/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stackoverflow.com&fp=chrome&security=reality&pbk=DqdP9AbO6vA0F8axlBoKTmrVbi_r_WjdHLisxUiD3Wk&sid=738017277a#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&sid=89dbda1a1c9369#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+vless://6e6cc44d-2ced-49a2-a7f1-e879847c1c57@152.53.141.213:47072/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yelp.com&fp=firefox&security=reality&pbk=5-GF4dwBQeyOgXR7OPMEHlXd47odGu1r8ukE-0Prd0o&sid=e39212f3#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://f31f5fe0-0a42-436a-be94-437330801388@141.98.168.41:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mirror.yandex.ru&fp=chrome&security=reality&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&sid=7e44612b079459#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
+vless://7b6df8d0-100c-48e1-beec-30effe41c04e@152.53.86.94:43326/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stackoverflow.com&fp=chrome&security=reality&pbk=e4jsuyfW6xyjfYOVsFI4AKnJihGp4MMqtRv5TaVurlw&sid=c3#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://820bc646-6b81-471a-8c6b-f7a6f750c62d@5.22.216.74:34270/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stackoverflow.com&fp=chrome&security=reality&pbk=foleRktxkiFhRpzlI9JQtPnnUn6uC_69MQOZIedPIRo&sid=b0f3c87d8b#%40REDFREE8%20%F0%9F%87%AA%F0%9F%87%B8
 
 trojan://D3OJA7xY5U@209.200.246.53:10785/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&sid=20b09680#%40REDFREE8%20%F0%9F%87%A8%F0%9F%87%A6
 
