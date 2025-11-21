@@ -79,15 +79,15 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇫🇷 vless-f7c141a4 (France)",
-        "🇧🇪 vless-24bdd68b (Belgium)",
-        "🇷🇺 vless-d8c4e3a3 (Russia)",
-        "🇫🇷 vless-b899a7b7 (France)",
-        "🇫🇷 vless-0f8c5420 (France)",
-        "🇹🇷 vless-2ec0a946 (Türkiye)",
-        "🇳🇱 vless-182035e2 (The Netherlands)",
-        "🇳🇱 vless-e8894146 (The Netherlands)",
-        "🇬🇧 vless-a03df3e3 (United Kingdom)",
+        "🇫🇷 vless-fa244b65 (France)",
+        "🇧🇪 vless-99daec8c (Belgium)",
+        "🇷🇺 vless-85b27a25 (Russia)",
+        "🇫🇷 vless-e91a1c37 (France)",
+        "🇫🇷 vless-c652b433 (France)",
+        "🇹🇷 vless-ad3adffd (Türkiye)",
+        "🇳🇱 vless-b192e90d (The Netherlands)",
+        "🇳🇱 vless-f1d59bec (The Netherlands)",
+        "🇬🇧 vless-90fee99f (United Kingdom)",
         "direct"
       ]
     },
@@ -95,15 +95,15 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇫🇷 vless-f7c141a4 (France)",
-        "🇧🇪 vless-24bdd68b (Belgium)",
-        "🇷🇺 vless-d8c4e3a3 (Russia)",
-        "🇫🇷 vless-b899a7b7 (France)",
-        "🇫🇷 vless-0f8c5420 (France)",
-        "🇹🇷 vless-2ec0a946 (Türkiye)",
-        "🇳🇱 vless-182035e2 (The Netherlands)",
-        "🇳🇱 vless-e8894146 (The Netherlands)",
-        "🇬🇧 vless-a03df3e3 (United Kingdom)"
+        "🇫🇷 vless-fa244b65 (France)",
+        "🇧🇪 vless-99daec8c (Belgium)",
+        "🇷🇺 vless-85b27a25 (Russia)",
+        "🇫🇷 vless-e91a1c37 (France)",
+        "🇫🇷 vless-c652b433 (France)",
+        "🇹🇷 vless-ad3adffd (Türkiye)",
+        "🇳🇱 vless-b192e90d (The Netherlands)",
+        "🇳🇱 vless-f1d59bec (The Netherlands)",
+        "🇬🇧 vless-90fee99f (United Kingdom)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -115,7 +115,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇫🇷 vless-f7c141a4 (France)",
+      "tag": "🇫🇷 vless-fa244b65 (France)",
       "server": "51.77.79.208",
       "server_port": 20382,
       "uuid": "28cf1b1a-984e-44b9-8fbb-1e2003a2410e",
@@ -129,7 +129,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇧🇪 vless-24bdd68b (Belgium)",
+      "tag": "🇧🇪 vless-99daec8c (Belgium)",
       "server": "45.83.20.34",
       "server_port": 58164,
       "uuid": "34c9f621-0614-4b7f-aab3-c4400bb15a89",
@@ -143,7 +143,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇷🇺 vless-d8c4e3a3 (Russia)",
+      "tag": "🇷🇺 vless-85b27a25 (Russia)",
       "server": "45.134.12.47",
       "server_port": 31203,
       "uuid": "87d1f4b2-83e7-4125-8d62-5d376871fd41",
@@ -157,7 +157,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇫🇷 vless-b899a7b7 (France)",
+      "tag": "🇫🇷 vless-e91a1c37 (France)",
       "server": "38.54.122.118",
       "server_port": 443,
       "uuid": "9f4b9824-df02-49c3-a976-d4f9a31f81fe",
@@ -171,7 +171,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇫🇷 vless-0f8c5420 (France)",
+      "tag": "🇫🇷 vless-c652b433 (France)",
       "server": "38.54.122.118",
       "server_port": 443,
       "uuid": "9f4b9824-df02-49c3-a976-d4f9a31f81fe",
@@ -185,7 +185,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇹🇷 vless-2ec0a946 (Türkiye)",
+      "tag": "🇹🇷 vless-ad3adffd (Türkiye)",
       "server": "45.92.219.139",
       "server_port": 443,
       "uuid": "bccbecc9-c1d2-45d1-b3fa-771a19b9831c",
@@ -199,7 +199,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇳🇱 vless-182035e2 (The Netherlands)",
+      "tag": "🇳🇱 vless-b192e90d (The Netherlands)",
       "server": "78.40.198.222",
       "server_port": 443,
       "uuid": "bccbecc9-c1d2-45d1-b3fa-771a19b9831c",
@@ -213,7 +213,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇳🇱 vless-e8894146 (The Netherlands)",
+      "tag": "🇳🇱 vless-f1d59bec (The Netherlands)",
       "server": "213.176.16.74",
       "server_port": 443,
       "uuid": "d7fbe279896e40118c23d15fe537dddd",
@@ -227,7 +227,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇬🇧 vless-a03df3e3 (United Kingdom)",
+      "tag": "🇬🇧 vless-90fee99f (United Kingdom)",
       "server": "193.46.81.151",
       "server_port": 50853,
       "uuid": "d988a5dc-35a4-44e6-8a78-a56659eee68c",
