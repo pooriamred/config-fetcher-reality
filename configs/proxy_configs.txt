@@ -4,9 +4,19 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/dedfree8
 
-vless://01cc2a19-7e26-4698-8d10-0b61bc125938@151.241.226.160:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=safari&security=reality&pbk=rAn7sOzdu2NA6d-ddqWLZr8i3MGn9JGXe22NsehwWVQ&sid=9f9be3d69031a138#%40REDFREE8%20%F0%9F%87%B9%F0%9F%87%B7
+vless://0166cc9f-f7d0-4225-8dd8-3f2d512f8824@graygoat.fonixapp.org:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=clients2.google.com&fp=chrome&security=reality&pbk=Nt8aT_cKoHYHQWkoAjVgQG3SIsU70hd2nMnVq7pTDzw&sid=95edb96d#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443/?type=grpc&encryption=none&flow=&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&fp=safari&security=reality&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5#%40REDFREE8%20%F0%9F%87%A8%F0%9F%87%AD
+
+vless://0d7ec99f-84d1-48dc-bf06-fefbc886a9f4@invoker.fonixapp.org:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.steamstatic.com&fp=chrome&security=reality&pbk=wYJxQU_EMrR5hV1elpfFZU7bzVIq0L5XFqgkzocfVCk&sid=1c#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=i2pd.website&fp=chrome&security=reality&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98#%40REDFREE8%20%F0%9F%87%AE%F0%9F%87%B1
 
 vless://16aa617a-631d-4be3-8a6f-819a7b7480d0@91.107.244.240:8443/?type=tcp&encryption=none&flow=&sni=fastly.com&fp=chrome&security=reality&pbk=A-uda057zISQMYHNFlfW1PQefk11bqT_RnI8aPi3YnU&sid=3f9bee6a2f7f#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://16cc5103-a65d-4e7a-a90c-df3369da9748@windrunner.fonixapp.org:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=xp.apple.com&fp=chrome&security=reality&pbk=LKUUqXsMdNvT5eJe2ascK2mNXXsN8QccOFRW3Xn7zQE&sid=9c7a#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://20b898ac-a156-41ee-be1c-34fa8fc88487@lifestealer.fonixapp.org:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=configuration.apple.com&fp=chrome&security=reality&pbk=ILR40ZmA56RadPtGy0UJmrSPva5Viapz65j-hrS25D8&sid=173c58#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://20cf5921-f7fa-47c5-81ae-947fbef83a4d@51.250.20.121:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo&sid=a20d3ed244c76426#%40REDFREE8%20%F0%9F%87%B7%F0%9F%87%BA
 
@@ -14,15 +24,23 @@ vless://20cf5921-f7fa-47c5-81ae-947fbef83a4d@51.250.20.121:443/?type=tcp&encrypt
 
 vless://20cf5921-f7fa-47c5-81ae-947fbef83a4d@51.250.21.113:4249/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&allowInsecure=1&fp=qq&security=reality&pbk=ggIR4bVSlStYnXMClNFeB0Uejk-zw8HQzjAA0j8F7Dc&sid=a20d3ed244c76426#%40REDFREE8%20%F0%9F%87%B1%F0%9F%87%B9
 
-vless://34101c6a-1da4-4ffd-af36-ca8134bd8f8b@62.182.192.73:8444/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=qtqQVReOiQPUhSKBL8rZ9c921pk4Tr2UvponGFdEGQI&sid=a71aaf4d2db3e06a#%40REDFREE8%20%F0%9F%87%B8%F0%9F%87%AA
+vless://2825bed8-db26-4722-81db-0f572f19dac5@helsinki.fonixapp.org:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=clients4.google.com&fp=chrome&security=reality&pbk=0ynmhxgUxTCCEhdgYsH1-_90sX5jztkAwUrarbruPS8&sid=8c#%40REDFREE8%20%F0%9F%87%AB%F0%9F%87%AE
 
-vless://34101c6a-1da4-4ffd-af36-ca8134bd8f8b@netherlands.netninja.ru:8444/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=qtqQVReOiQPUhSKBL8rZ9c921pk4Tr2UvponGFdEGQI&sid=a71aaf4d2db3e06a#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
+vless://2fa90d97-e5ed-43b1-9663-298f792a728c@tidehunter.fonixapp.org:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=update.googleapis.com&fp=chrome&security=reality&pbk=rneFm2P56N7_TgqIdLh5ahUIQaK1kQ3-RasVizKPDQc&sid=58935fec48#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://344c9272-c35a-4805-8285-e01cb4310b4f@butcher.fonixapp.org:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fonts.gstatic.com&fp=chrome&security=reality&pbk=CDUS4VDmw-WDT_lkYZLcLmJIt90jspvykI_1LaUPmSM&sid=3938#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://3a066455-22e9-45e7-804e-f1aaaa280e02@89.169.177.222:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=CDE57QnfR1CIzHYt5yO2kKrRiBUv4XsvroUQZveU_mE&sid=5540e44a53c3d01c#%40REDFREE8%20%F0%9F%87%B7%F0%9F%87%BA
+
+vless://4468ae8a-7741-42dd-be69-d75cd94c9b0e@216.106.189.107:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=iHDnFIEsw6lD514kP0JNtP1h7zlQ6AEZn6nKICyOYlY&sid=5eac66585cbd595c#%40REDFREE8%20%F0%9F%87%AB%F0%9F%87%B7
+
+vless://476bc9f4-36fd-4cca-af09-057cc134e7cd@tuskar.fonixapp.org:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api.snapkit.com&fp=chrome&security=reality&pbk=w-w9qJQ6_i4Te9FJrRRxfIWGMqUPg5pmwu1akbFACRg&sid=332d4a4e#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339/?type=tcp&encryption=none&flow=&sni=dl.google.com&fp=chrome&security=reality&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#%40REDFREE8%20%F0%9F%87%B0%F0%9F%87%BF
 
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.104.85:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%40REDFREE8%20%F0%9F%87%AA%F0%9F%87%AA
 
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.109.47:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%40REDFREE8%20%F0%9F%87%B5%F0%9F%87%B1
+vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.106.20:4249/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.109.47:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%40REDFREE8%20%F0%9F%87%B5%F0%9F%87%B1
 
@@ -32,6 +50,8 @@ vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.16.101:1488/?type=tcp&encryp
 
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.16.178:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
+vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.16.178:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.19.203:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
 
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.23.141:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
@@ -39,26 +59,4 @@ vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.23.141:1488/?type=tcp&encryp
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.25.119:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.25.11:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
-
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:4248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%40REDFREE8%20%F0%9F%87%B7%F0%9F%87%BA
-
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.99:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
-
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.29.132:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
-
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.29.71:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
-
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.97.57:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
-
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.98.101:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%40REDFREE8%20%F0%9F%87%AA%F0%9F%87%AA
-
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.98.83:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
-
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.99.190:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%40REDFREE8%20%F0%9F%87%B5%F0%9F%87%B1
-
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@84.201.178.99:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
-
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
-
-trojan://LxJCPOP40a@206.206.77.237:51469/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&sid=793dfc59cf7edf#%40REDFREE8%20%F0%9F%87%B8%F0%9F%87%AC
 
